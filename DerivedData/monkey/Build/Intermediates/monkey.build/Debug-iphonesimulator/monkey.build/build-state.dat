@@ -1,0 +1,786 @@
+Tmonkey
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist /Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist
+cCompileXIB /Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib
+cCompileXIB /Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib
+cCpResource monkey_toy.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png
+cCpResource monkey_toy_57.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png
+cCpResource monkey_toy_114.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png
+cCpResource title.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png
+cCpResource title@2x.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png
+cCpResource IMG_0035.JPG DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG
+cCpResource buzzer.mp3 DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3
+cCpResource win.m4a DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a
+cProcessPCH /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch monkey_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o /Users/zgarbowitz/dev/example_project/monkey/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey normal i386
+cGenerateDSYMFile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey
+cTouch /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527C174700000000000003B5
+t1383864135
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527C174B00000000000001A0
+t1383864139
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000527C174C000000000047C980
+t1383864140
+s4704640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000527C174C0000000000098030
+t1383864140
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000527C174C00000000005B82A0
+t1383864140
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527C174C0000000000445870
+t1383864140
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527C174D000000000088C680
+t1383864141
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000527C174E00000000004848F0
+t1383864142
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000527C174E00000000001290B0
+t1383864142
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527C174F0000000001DB9910
+t1383864143
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000527C175500000000002B9F20
+t1383864149
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000527C17580000000000002338
+t1383864152
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000527C1758000000000008D300
+t1383864152
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000527C1758000000000038ACB0
+t1383864152
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005293567A00000000000141F0
+t1385387642
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000527C17580000000000013500
+t1383864152
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000527C17580000000000033BA0
+t1383864152
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000527C1758000000000001CFB0
+t1383864152
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000527C1758000000000001B2B0
+t1383864152
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000527C175800000000000632B0
+t1383864152
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000527C17580000000000008880
+t1383864152
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000527C17580000000000015080
+t1383864152
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000527C175800000000000230E0
+t1383864152
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000527C1758000000000000E380
+t1383864152
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527C17580000000000087200
+t1383864152
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000527C175800000000000171A0
+t1383864152
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000527C17580000000000039C10
+t1383864152
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000527C1758000000000000B0B0
+t1383864152
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000527C17580000000000167FE0
+t1383864152
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000527C175800000000000106A0
+t1383864152
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000527C1758000000000001CE40
+t1383864152
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000527C17580000000000071040
+t1383864152
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000527C17580000000000067A10
+t1383864152
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000527C1758000000000001BAD0
+t1383864152
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000527C17580000000000088BA0
+t1383864152
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000527C17650000000000005004
+t1383864165
+s20484
+
+N/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.h
+c0000000052A1252300000000000001CD
+t1386292515
+s461
+
+N/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m
+c0000000052A125230000000000000A99
+t1386292515
+s2713
+
+N/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.h
+c0000000052A2204100000000000002E8
+t1386356801
+s744
+
+N/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m
+c0000000052A2203C0000000000001A11
+t1386356796
+s6673
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch
+t1386292534
+s5334856
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o
+t1386292534
+s3932
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkey.LinkFileList
+c0000000052A1253500000000000001FA
+t1386292533
+s506
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o
+t1386356810
+s73332
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o
+t1386356810
+s83088
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app
+t1386356810
+s510
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM
+t1386356730
+s102
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG
+t1386292533
+s58902
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist
+t1386292533
+s688
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/MainWindow.nib
+t1386292533
+s1213
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/PkgInfo
+t1386292533
+s8
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3
+t1386292533
+s26139
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey
+t1386356810
+s36504
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkeyViewController.nib
+t1386356730
+s4535
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png
+t1386292533
+s116485
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png
+t1386292533
+s13586
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png
+t1386292533
+s4946
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png
+t1386292533
+s47439
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png
+t1386292533
+s112060
+
+N/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a
+t1386292533
+s129034
+
+N/Users/zgarbowitz/dev/example_project/monkey/IMG_0035.JPG
+c0000000052A12523000000000000E616
+t1386292515
+s58902
+
+N/Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib
+c0000000052A125230000000000004E1D
+t1386292515
+s19997
+
+N/Users/zgarbowitz/dev/example_project/monkey/buzzer.mp3
+c0000000052A12523000000000000661B
+t1386292515
+s26139
+
+N/Users/zgarbowitz/dev/example_project/monkey/main.m
+c0000000052A12523000000000000015C
+t1386292515
+s348
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist
+c0000000052A125230000000000000413
+t1386292515
+s1043
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib
+c0000000052A21F8D0000000000003564
+t1386356621
+s13668
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkey_Prefix.pch
+c0000000052A1252300000000000000B5
+t1386292515
+s181
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkey_toy.png
+c0000000052A12523000000000001C705
+t1386292515
+s116485
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkey_toy_114.png
+c0000000052A125230000000000003512
+t1386292515
+s13586
+
+N/Users/zgarbowitz/dev/example_project/monkey/monkey_toy_57.png
+c0000000052A125230000000000001352
+t1386292515
+s4946
+
+N/Users/zgarbowitz/dev/example_project/monkey/title.png
+c0000000052A12523000000000000B94F
+t1386292515
+s47439
+
+N/Users/zgarbowitz/dev/example_project/monkey/title@2x.png
+c0000000052A12523000000000001B5BC
+t1386292515
+s112060
+
+N/Users/zgarbowitz/dev/example_project/monkey/win.m4a
+c0000000052A12523000000000001F80A
+t1386292515
+s129034
+
+N/usr/lib/libSystem.B.dylib
+c000000005293566D000000000000E6D0
+t1385387629
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005293567A0000000000012A00
+t1385387642
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052935662000000000002E320
+t1385387618
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005293566D0000000000021860
+t1385387629
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052935679000000000001B620
+t1385387641
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005293567900000000000BD920
+t1385387641
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005293567A000000000000A120
+t1385387642
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005293567A000000000001D550
+t1385387642
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000529356790000000000014EE0
+t1385387641
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005293567B0000000000010380
+t1385387643
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005293567B000000000000C4C0
+t1385387643
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005293567A00000000000357A0
+t1385387642
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005293567A000000000000C070
+t1385387642
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005293566D0000000000168C00
+t1385387629
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000529356790000000000010630
+t1385387641
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005293567A000000000001DF10
+t1385387642
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005293566D0000000000075B00
+t1385387629
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005293566D000000000007CC70
+t1385387629
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005293566D00000000000766C0
+t1385387629
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005293567A0000000000044DC0
+t1385387642
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005293566D0000000000021FA0
+t1385387629
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005293567A000000000002D900
+t1385387642
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005293567A000000000001E570
+t1385387642
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052935673000000000000CC70
+t1385387635
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052935675000000000000C3F0
+t1385387637
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005293567A00000000000199F0
+t1385387642
+s104944
+
+CBuild AST from /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m
+r0
+
+CBuild AST from /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m
+r0
+
+CBuild AST from /Users/zgarbowitz/dev/example_project/monkey/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa801d7ca5752b841^fd84d7ca5752b841^---0#1#1#--18"Check dependencies36"A2033513-62FC-400D-9BE7-792C25BF745B-
+
+CCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o /Users/zgarbowitz/dev/example_project/monkey/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407985334.427839
+e407985334.447884
+r1
+xCompileC
+xDerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o
+x/Users/zgarbowitz/dev/example_project/monkey/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zgarbowitz/dev/example_project/monkey/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/zgarbowitz/dev/example_project/monkey/main.m197"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08ab6db65c51b841^61a972b65c51b841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/zgarbowitz/dev/example_project/monkey/main.m0000000000000000^3715"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zgarbowitz/dev/example_project/monkey    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-generated-files.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-own-target-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-all-target-headers.hmap -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-project-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources/i386 -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources -F/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator -include /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch -MMD -MT dependencies -MF /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.dia -c /Users/zgarbowitz/dev/example_project/monkey/main.m -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o36"FBF02E83-093D-420F-809E-7F72939000AC-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408049610.842677
+e408049610.936881
+r1
+xCompileC
+xDerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o
+x/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m
+d/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.h
+d/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m231"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o Classes/monkeyAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler42ced7ca5752b841^9dd8efca5752b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m0000000000000000^3809"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o Classes/monkeyAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zgarbowitz/dev/example_project/monkey    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-generated-files.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-own-target-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-all-target-headers.hmap -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-project-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources/i386 -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources -F/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator -include /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch -MMD -MT dependencies -MF /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.d --serialize-diagnostics /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.dia -c /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyAppDelegate.m -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o36"CABECF88-9C4F-4D29-917E-CEE2C4B8F6B7-
+bE6F60A2C-C229-4238-9EF5-0618098B9818
+
+CCompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408049610.842684
+e408049610.945081
+r1
+xCompileC
+xDerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o
+x/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m
+d/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.h
+o/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m:104:9: warning: instance method '-startGame:' not found (return type defaults to 'id') [-Wobjc-method-access]
+o                [self startGame:nil];
+o                      ^~~~~~~~~
+o/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m:111:9: warning: instance method '-startGame:' not found (return type defaults to 'id') [-Wobjc-method-access]
+o                [self startGame:nil];
+o                      ^~~~~~~~~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m237"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o Classes/monkeyViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereecdd7ca5752b841^f6f0f1ca5752b841^-534"/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m:104:9: warning: instance method '-startGame:' not found (return type defaults to 'id') [-Wobjc-method-access]                [self startGame:nil];                      ^~~~~~~~~/Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m:111:9: warning: instance method '-startGame:' not found (return type defaults to 'id') [-Wobjc-method-access]                [self startGame:nil];                      ^~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@70"Instance method '-startGame:' not found (return type defaults to 'id')-408049610#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m0000000000000000^103#8#103#8#3394#0#14"Semantic Issue1(3@82"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m0000000000000000^103#8#103#17#3394#0#-2@70"Instance method '-startGame:' not found (return type defaults to 'id')-408049610#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m0000000000000000^110#8#110#8#3575#0#14"Semantic Issue1(3@82"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m0000000000000000^110#8#110#17#3575#0#-0#0#1#-19%DVTDocumentLocation4@82"file:///Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m0000000000000000^3827"CompileC DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o Classes/monkeyViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zgarbowitz/dev/example_project/monkey    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-generated-files.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-own-target-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-all-target-headers.hmap -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-project-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources/i386 -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources -F/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator -include /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch -MMD -MT dependencies -MF /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.d --serialize-diagnostics /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.dia -c /Users/zgarbowitz/dev/example_project/monkey/Classes/monkeyViewController.m -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o36"1189641E-01D6-40AD-9A6E-34907D2558C7-
+bE6F60A2C-C229-4238-9EF5-0618098B9818
+
+CCompileXIB /Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib
+s407985333.435166
+e407985333.461344
+r1
+xCompileXIB
+x/Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compiling /Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib25"CompileXIB MainWindow.xiba7756fb55c51b841^7a1c76b55c51b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib0000000000000000^765"CompileXIB MainWindow.xib    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/MainWindow.nib /Users/zgarbowitz/dev/example_project/monkey/MainWindow.xib36"58EDB842-6E26-4296-8229-02C000EDAB31-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCompileXIB /Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib
+s408049530.668725
+e408049530.833097
+r1
+xCompileXIB
+x/Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compiling /Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib35"CompileXIB monkeyViewController.xib193dab7a5752b841^0647d57a5752b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib0000000000000000^795"CompileXIB monkeyViewController.xib    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkeyViewController.nib /Users/zgarbowitz/dev/example_project/monkey/monkeyViewController.xib36"54C6C10D-8135-4C01-B714-75D197D5D961-
+b0E390962-019F-4B3E-A368-EF199515F615
+
+CCpResource IMG_0035.JPG DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG
+s407985333.437178
+e407985333.438706
+r1
+xCpResource
+xIMG_0035.JPG
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG103"CpResource IMG_0035.JPG DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPGbdff6fb55c51b841^d84a70b55c51b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG003408afddffdf42^633"CpResource IMG_0035.JPG DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/IMG_0035.JPG    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/IMG_0035.JPG /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"3779D744-CF3D-40B8-870A-EAC04E4616F3-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource buzzer.mp3 DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3
+s407985333.437594
+e407985333.438933
+r1
+xCpResource
+xbuzzer.mp3
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp399"CpResource buzzer.mp3 DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3dd2270b55c51b841^a66170b55c51b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3003408afddffdf42^627"CpResource buzzer.mp3 DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/buzzer.mp3    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/buzzer.mp3 /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"3C6E58DF-3976-4C30-835C-F2C257FDBA7A-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource monkey_toy.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png
+s407985333.435593
+e407985333.436930
+r1
+xCpResource
+xmonkey_toy.png
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png107"CpResource monkey_toy.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png9f8e6fb55c51b841^61de6fb55c51b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png003408afddffdf42^639"CpResource monkey_toy.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy.png    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/monkey_toy.png /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"42362A03-7BCA-411B-B949-6049A299DC6A-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource monkey_toy_114.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png
+s407985333.436269
+e407985333.437375
+r1
+xCpResource
+xmonkey_toy_114.png
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png115"CpResource monkey_toy_114.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png50c36fb55c51b841^49f76fb55c51b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png003408afddffdf42^651"CpResource monkey_toy_114.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_114.png    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/monkey_toy_114.png /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"52E8221A-3AD2-46E8-80F9-ED1B69AAFCEC-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource monkey_toy_57.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png
+s407985333.435807
+e407985333.436982
+r1
+xCpResource
+xmonkey_toy_57.png
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png113"CpResource monkey_toy_57.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png7aaa6fb55c51b841^c0eb6fb55c51b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png003408afddffdf42^648"CpResource monkey_toy_57.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey_toy_57.png    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/monkey_toy_57.png /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"CDF04EA5-6CF5-4740-AA44-32925B91FA13-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource title.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png
+s407985333.436692
+e407985333.438591
+r1
+xCpResource
+xtitle.png
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png97"CpResource title.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png84f56fb55c51b841^015170b55c51b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png003408afddffdf42^624"CpResource title.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title.png    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/title.png /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"1647F973-CB54-4AC1-A4ED-14E46AB558F7-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource title@2x.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png
+s407985333.436969
+e407985333.438631
+r1
+xCpResource
+xtitle@2x.png
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png103"CpResource title@2x.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png48fb6fb55c51b841^715670b55c51b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png003408afddffdf42^633"CpResource title@2x.png DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/title@2x.png    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/title@2x.png /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"7BC8BD81-A0FD-46F4-8D50-6899E3200A2B-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CCpResource win.m4a DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a
+s407985333.437988
+e407985333.439247
+r1
+xCpResource
+xwin.m4a
+xDerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a93"CpResource win.m4a DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a172d70b55c51b841^047370b55c51b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a003408afddffdf42^618"CpResource win.m4a DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/win.m4a    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/zgarbowitz/dev/example_project/monkey/win.m4a /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app36"01E9CB2F-41C4-4036-B102-9C8F8F2440EF-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CGenerateDSYMFile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey
+s408049610.970099
+e408049610.984350
+r1
+xGenerateDSYMFile
+x/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM
+x/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM162"GenerateDSYMFile DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey8d63f8ca5752b841^15fffbca5752b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM/0000000000000000^749"GenerateDSYMFile DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app.dSYM36"7DBC2AF2-BFD2-42EE-852F-C7F3EF58C08A-
+bE6F60A2C-C229-4238-9EF5-0618098B9818
+
+CLd /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey normal i386
+s408049610.946457
+e408049610.969454
+r1
+xLd
+x/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey
+xnormal
+xi386
+d/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkey.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/main.o
+d/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyAppDelegate.o
+d/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkeyViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey88"Ld DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey normal i386e259f2ca5752b841^ec2ef8ca5752b841^---0#0#1#--1584"Ld DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey normal i386    cd /Users/zgarbowitz/dev/example_project/monkey    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator -F/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator -filelist /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkey.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework Security -framework QuartzCore -framework AVFoundation -Xlinker -dependency_info -Xlinker /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/Objects-normal/i386/monkey_dependency_info.dat -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/monkey36"63B0DF4A-66C5-463B-9616-B45373206F5A-
+bE6F60A2C-C229-4238-9EF5-0618098B9818
+
+CProcessInfoPlistFile /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist /Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist
+s407985333.433500
+e407985333.434711
+r1
+xProcessInfoPlistFile
+x/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist
+x/Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Process /Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist116"ProcessInfoPlistFile DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist monkey-Info.plistea056fb55c51b841^43906fb55c51b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist0000000000000000^776"ProcessInfoPlistFile DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist monkey-Info.plist    cd /Users/zgarbowitz/dev/example_project/monkey    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/zgarbowitz/dev/example_project/monkey/monkey-Info.plist -genpkginfo /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app/Info.plist36"CB1CA936-D829-4517-A0D2-2F4D7088C867-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CProcessPCH /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch monkey_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407985334.192744
+e407985334.427071
+r1
+xProcessPCH
+x/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch
+xmonkey_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zgarbowitz/dev/example_project/monkey/monkey_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile monkey_Prefix.pch219"ProcessPCH DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch monkey_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerad6a31b65c51b841^2a566db65c51b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/zgarbowitz/dev/example_project/monkey/monkey_Prefix.pch0000000000000000^3605"ProcessPCH DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch monkey_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zgarbowitz/dev/example_project/monkey    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-generated-files.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-own-target-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-all-target-headers.hmap -iquote /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/monkey-project-headers.hmap -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources/i386 -I/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/monkey.build/Debug-iphonesimulator/monkey.build/DerivedSources -F/Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.dia -MMD -MT dependencies -MF /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.d -c /Users/zgarbowitz/dev/example_project/monkey/monkey_Prefix.pch -o /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-etysnglzboupyncpgxcyybavaqfq/monkey_Prefix.pch.pch36"5B2506A3-EC63-4B9A-9AE4-B2AE3583EC9D-
+bAC8973DE-1205-4F6E-B873-990B52B85A29
+
+CProcessPCH /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Index/PrecompiledHeaders/monkey_Prefix-euhkddkffoiixrazbchcjjvnyyhi_ast/monkey_Prefix.pch.pch monkey_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/zgarbowitz/dev/example_project/monkey/DerivedData/monkey/Build/Products/Debug-iphonesimulator/monkey.app
+r0
+
